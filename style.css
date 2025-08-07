@@ -9,6 +9,7 @@
         body {
             font-family: 'Inter', sans-serif;
             scroll-behavior: smooth;
+                    align-text: justify;
         }
 
         .hero-gradient {
@@ -93,4 +94,5 @@
             z-index: 1000;
             justify-content: center;
             align-items: center;
+
         }
